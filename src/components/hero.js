@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <div  className='hero'>
           <div className='mask'>
-              <img className='into-img' src="https://i.pinimg.com/736x/17/09/13/170913aa22526fc39e5bfef344d5440d--fantasy-places-fantasy-art.jpg" alt="image"/>
+              <img className='into-img' src="https://media.istockphoto.com/id/824197440/photo/modern-tech-for-a-modern-workplace.jpg?b=1&s=170667a&w=0&k=20&c=u07MY-if2pvMowwz-KHBXAzSmddj0SSvVmIZreT_eyE=" alt="image"/>
           </div>
           <div className='content'>
             <p>Hi . I'M A FREELANCER</p>
